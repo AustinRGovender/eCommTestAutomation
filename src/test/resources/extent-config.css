@@ -1,0 +1,80 @@
+/* Base Theme */
+html {
+    background-color: #303030; /* Dark background */
+    color: #E0E0E0; /* Light text color */
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Header */
+.header {
+    background-color: #212121; /* Darker background */
+    color: #ffffff;
+}
+
+.header h1 {
+    font-size: 24px;
+}
+
+/* Navigation Bar */
+.navbar {
+    background-color: #424242; /* Slightly lighter background */
+}
+
+.navbar a {
+    color: #ffffff;
+}
+
+/* Sidebar */
+.sidebar {
+    background-color: #424242;
+    color: #E0E0E0;
+}
+
+/* Footer */
+.footer {
+    background-color: #212121;
+    color: #E0E0E0;
+}
+
+/* Report Sections */
+.report-summary {
+    background-color: #424242;
+    color: #E0E0E0;
+}
+
+.report-summary h2 {
+    color: #ffffff;
+}
+
+/* Test Cases */
+.test-case {
+    background-color: #303030;
+    color: #E0E0E0;
+}
+
+.test-case h3 {
+    color: #ffffff;
+}
+
+/* Status Colors */
+.status-passed {
+    color: #4CAF50; /* Green */
+}
+
+.status-failed {
+    color: #F44336; /* Red */
+}
+
+.status-skipped {
+    color: #FFC107; /* Amber */
+}
+
+/* Button Styles */
+.btn {
+    background-color: #757575; /* Dark grey */
+    color: #E0E0E0;
+}
+
+.btn:hover {
+    background-color: #616161; /* Slightly lighter grey */
+}
